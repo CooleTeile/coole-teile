@@ -9,7 +9,7 @@ theme = "spectral"
 [params]
 fancyTitle = "Wszystkiego najlepszego z okazji urodzin <br/> la Binczycka <br/> 🎂✨🍄" # title for frontpage, may include image
 # copyright = "John Doe"
-description = 'Le site est en ligne, maintenant go chercher les champigons'
+description = 'Le site est en ligne, maintenant go chercher les champignons'
 startbuttonText = "Check Coole Teile"
 startbuttonLink = "#"
 body_is_markdown = true
